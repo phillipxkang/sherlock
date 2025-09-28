@@ -3,6 +3,7 @@ Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 Heavy-R
 LessWrong
@@ -14,6 +15,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
 Topcoder
