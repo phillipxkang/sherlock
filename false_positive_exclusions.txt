@@ -1,10 +1,9 @@
 APClips
 Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
+HackerRank
 Heavy-R
 LessWrong
 LushStories
@@ -15,7 +14,6 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SpeakerDeck
 Splice
 Spotify
 Topcoder
