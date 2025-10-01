@@ -1,5 +1,6 @@
 APClips
-Academia.edu
+Audiojungle
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -12,6 +13,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+Slack
 SlideShare
 Splice
 Spotify
@@ -19,6 +21,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
