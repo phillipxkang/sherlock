@@ -1,11 +1,11 @@
 APClips
 Audiojungle
-Coders Rank
+BoardGameGeek
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -13,15 +13,14 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
-nnRU
 opennet
 svidbook
 threads
