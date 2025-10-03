@@ -1,12 +1,11 @@
 APClips
-Audiojungle
 BoardGameGeek
-CyberDefenders
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LushStories
+LessWrong
 Mydramalist
 PepperIT
 PocketStars
@@ -19,7 +18,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
 kaskus
 opennet
 svidbook
