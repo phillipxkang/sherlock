@@ -1,25 +1,27 @@
 APClips
-Blogger
 BoardGameGeek
+Coders Rank
 CyberDefenders
-Flipboard
-GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
 SlideShare
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster
