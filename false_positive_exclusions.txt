@@ -1,12 +1,10 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
-DeviantART
+Cults3D
 GNOME VCS
 Giphy
 HackerEarth
-Heavy-R
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -21,5 +19,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
