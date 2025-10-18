@@ -1,6 +1,5 @@
 APClips
 BoardGameGeek
-Cults3D
 GNOME VCS
 Giphy
 HackerEarth
@@ -14,11 +13,11 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Tiendanube
 Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
