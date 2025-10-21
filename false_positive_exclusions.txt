@@ -1,12 +1,10 @@
 APClips
-Audiojungle
 BoardGameGeek
+Coders Rank
 CyberDefenders
-Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
-LessWrong
 LushStories
 Mydramalist
 PepperIT
