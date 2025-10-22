@@ -5,6 +5,8 @@ CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -16,6 +18,7 @@ SlideShare
 Splice
 Spotify
 Topcoder
+Velomania
 Weblate
 YandexMusic
 kaskus
