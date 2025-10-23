@@ -1,11 +1,8 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
 LiveJournal
 LushStories
 Mydramalist
@@ -18,11 +15,9 @@ SlideShare
 Splice
 Spotify
 Topcoder
-Velomania
 Weblate
 YandexMusic
 kaskus
-opennet
+nnRU
 svidbook
 threads
-xHamster
