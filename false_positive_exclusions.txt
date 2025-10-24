@@ -1,9 +1,11 @@
 APClips
 BoardGameGeek
+Carbonmade
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
-LiveJournal
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -18,6 +20,6 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
+opennet
 svidbook
 threads
