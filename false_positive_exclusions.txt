@@ -1,7 +1,6 @@
 APClips
-Audiojungle
 BoardGameGeek
-CyberDefenders
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -17,10 +16,10 @@ SlideShare
 Splice
 Spotify
 Topcoder
-TryHackMe
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
 xHamster
