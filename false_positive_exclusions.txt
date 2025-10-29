@@ -1,11 +1,9 @@
 APClips
 BoardGameGeek
-CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -22,3 +20,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
