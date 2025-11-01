@@ -1,5 +1,6 @@
 APClips
 BoardGameGeek
+Coders Rank
 CyberDefenders
 GNOME VCS
 Giphy
@@ -15,9 +16,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
+phpRU
 svidbook
 threads
