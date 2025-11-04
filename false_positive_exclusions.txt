@@ -1,9 +1,8 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
 LessWrong
 LushStories
@@ -17,11 +16,8 @@ SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
-nnRU
 opennet
 phpRU
 svidbook
 threads
-xHamster
