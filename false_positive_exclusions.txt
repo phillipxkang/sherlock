@@ -2,7 +2,6 @@ APClips
 BoardGameGeek
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 LessWrong
 LushStories
@@ -16,8 +15,9 @@ SlideShare
 Splice
 Spotify
 Weblate
+YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
+xHamster
