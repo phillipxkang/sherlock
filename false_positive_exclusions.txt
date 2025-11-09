@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
@@ -19,6 +20,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 phpRU
 svidbook
 threads
