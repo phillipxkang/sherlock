@@ -21,6 +21,5 @@ Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
