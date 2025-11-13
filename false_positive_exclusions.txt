@@ -5,7 +5,7 @@ Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
-LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -19,5 +19,7 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
+xHamster
