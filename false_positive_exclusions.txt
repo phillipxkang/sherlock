@@ -1,13 +1,12 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 Coders Rank
-CyberDefenders
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
-Harvard Scholar
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -18,11 +17,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Venmo
 Weblate
 YandexMusic
 kaskus
+opennet
 phpRU
 svidbook
 threads
-xHamster
