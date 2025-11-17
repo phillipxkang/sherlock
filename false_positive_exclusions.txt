@@ -1,9 +1,8 @@
 APClips
-Archive of Our Own
 Archive.org
 BoardGameGeek
+Coders Rank
 CyberDefenders
-DeviantART
 GNOME VCS
 Giphy
 HackerEarth
@@ -21,7 +20,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-nnRU
-phpRU
+opennet
 svidbook
 threads
