@@ -1,7 +1,6 @@
 APClips
-Archive.org
-Audiojungle
 BoardGameGeek
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
@@ -22,3 +21,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
