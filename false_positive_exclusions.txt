@@ -1,9 +1,10 @@
 APClips
+Archive.org
 BoardGameGeek
-Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
 LushStories
 Mydramalist
 PepperIT
@@ -12,6 +13,7 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+Snapchat
 Splice
 Spotify
 Weblate
@@ -21,4 +23,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
