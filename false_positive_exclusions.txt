@@ -1,10 +1,11 @@
 APClips
 Archive.org
 BoardGameGeek
+Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
 LushStories
 Mydramalist
 PepperIT
@@ -13,13 +14,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-Snapchat
 Splice
 Spotify
+TryHackMe
 Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
 threads
