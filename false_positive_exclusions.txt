@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 Coders Rank
 CyberDefenders
@@ -14,9 +15,9 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SpeakerDeck
 Splice
 Spotify
-TryHackMe
 Weblate
 YandexMusic
 kaskus
