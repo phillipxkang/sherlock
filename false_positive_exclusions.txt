@@ -2,10 +2,13 @@ APClips
 Archive.org
 Blogger
 BoardGameGeek
+CGTrader
 Coders Rank
+CyberDefenders
 GNOME VCS
 Giphy
 HackerEarth
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -20,5 +23,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 threads
