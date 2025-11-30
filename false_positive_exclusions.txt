@@ -2,7 +2,6 @@ APClips
 Archive.org
 BoardGameGeek
 Coders Rank
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,8 +18,8 @@ Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 kaskus
+nnRU
 opennet
 svidbook
 threads
