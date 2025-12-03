@@ -6,10 +6,10 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+Hubski
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -21,6 +21,5 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
