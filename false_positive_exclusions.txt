@@ -1,7 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
+Code Snippet Wiki
 Coders Rank
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,5 +23,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
