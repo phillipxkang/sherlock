@@ -1,12 +1,13 @@
 APClips
 Archive.org
+Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hubski
 LessWrong
@@ -26,4 +27,3 @@ kaskus
 opennet
 svidbook
 threads
-xHamster
