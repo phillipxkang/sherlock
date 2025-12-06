@@ -1,13 +1,11 @@
 APClips
 Archive.org
-Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hubski
 LessWrong
@@ -24,6 +22,5 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
