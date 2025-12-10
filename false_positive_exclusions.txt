@@ -2,11 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -24,3 +26,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
