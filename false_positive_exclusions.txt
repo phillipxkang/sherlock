@@ -3,6 +3,8 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Coders Rank
+CyberDefenders
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -24,4 +26,3 @@ YandexMusic
 kaskus
 svidbook
 threads
-xHamster
