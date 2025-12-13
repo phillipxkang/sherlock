@@ -1,8 +1,8 @@
 APClips
 Archive.org
 BoardGameGeek
+Carbonmade
 Code Snippet Wiki
-Coders Rank
 CyberDefenders
 Fandom
 GNOME VCS
@@ -21,8 +21,9 @@ RocketTube
 SlideShare
 Splice
 Spotify
+Vero
 Weblate
-YandexMusic
 kaskus
+opennet
 svidbook
 threads
