@@ -1,13 +1,12 @@
 APClips
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
-CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hubski
 LessWrong
