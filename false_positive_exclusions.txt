@@ -1,31 +1,27 @@
 APClips
 Archive.org
-Blogger
 BoardGameGeek
 Code Snippet Wiki
-Coders Rank
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 HackerEarth
 Hubski
+Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
+Scribd
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
