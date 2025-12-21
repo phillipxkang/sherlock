@@ -1,8 +1,9 @@
 APClips
-Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,6 +11,7 @@ HackerEarth
 Hubski
 Itch.io
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -23,5 +25,8 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
+phpRU
 svidbook
 threads
+xHamster
