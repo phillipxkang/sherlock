@@ -1,15 +1,14 @@
 APClips
+Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -29,4 +28,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
