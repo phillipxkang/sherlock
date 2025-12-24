@@ -1,8 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
+Chess
 Code Snippet Wiki
-CyberDefenders
+DeviantART
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -28,3 +29,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
