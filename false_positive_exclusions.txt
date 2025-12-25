@@ -1,15 +1,15 @@
 APClips
 Archive.org
 BoardGameGeek
-Chess
 Code Snippet Wiki
-DeviantART
+Eintracht Frankfurt Forum
 Fandom
-GNOME VCS
+Freelancer
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -29,4 +29,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
