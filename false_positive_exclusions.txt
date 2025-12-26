@@ -2,14 +2,14 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Eintracht Frankfurt Forum
 Fandom
 Freelancer
+GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -23,9 +23,9 @@ SlideShare
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
 opennet
 phpRU
 svidbook
 threads
+xHamster
