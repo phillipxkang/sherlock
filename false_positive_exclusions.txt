@@ -2,13 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -17,7 +17,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -25,6 +24,7 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+mercadolivre
 opennet
 phpRU
 svidbook
