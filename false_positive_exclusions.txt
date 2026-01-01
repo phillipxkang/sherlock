@@ -3,7 +3,9 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 CyberDefenders
+Dribbble
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -25,8 +27,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
