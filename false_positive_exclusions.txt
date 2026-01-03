@@ -18,13 +18,17 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
+Venmo
 Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
