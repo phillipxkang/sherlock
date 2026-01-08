@@ -1,9 +1,12 @@
 APClips
+Academia.edu
 Archive.org
 BoardGameGeek
+CGTrader
 Code Snippet Wiki
 Fandom
 GNOME VCS
+GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
@@ -27,3 +30,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
