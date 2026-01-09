@@ -1,15 +1,15 @@
 APClips
-Academia.edu
 Archive.org
 BoardGameGeek
-CGTrader
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -19,15 +19,14 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
+Smule
 Splice
 Spotify
 Weblate
 YandexMusic
-kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
