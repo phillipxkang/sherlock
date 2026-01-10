@@ -1,6 +1,8 @@
 APClips
+Anilist
 Archive.org
 BoardGameGeek
+Carbonmade
 Code Snippet Wiki
 CyberDefenders
 Fandom
@@ -9,9 +11,7 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -19,14 +19,15 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
 Weblate
 YandexMusic
+kaskus
 mercadolivre
 phpRU
 svidbook
 threads
+xHamster
