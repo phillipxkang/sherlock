@@ -1,10 +1,7 @@
 APClips
-Anilist
 Archive.org
 BoardGameGeek
-Carbonmade
 Code Snippet Wiki
-CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -12,6 +9,7 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -27,6 +25,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
