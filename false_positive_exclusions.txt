@@ -2,6 +2,7 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+DeviantART
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -16,16 +17,17 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
