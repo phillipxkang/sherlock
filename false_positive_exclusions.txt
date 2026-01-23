@@ -1,8 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
-CGTrader
 Code Snippet Wiki
+CyberDefenders
+Dribbble
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -14,6 +15,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -24,6 +26,7 @@ Splice
 Spotify
 Weblate
 YandexMusic
+eintracht
 kaskus
 mercadolivre
 opennet
