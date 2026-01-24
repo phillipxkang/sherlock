@@ -2,20 +2,17 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-CyberDefenders
-Dribbble
 Fandom
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -26,7 +23,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
-eintracht
 kaskus
 mercadolivre
 opennet
