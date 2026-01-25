@@ -3,13 +3,13 @@ Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
-Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -17,6 +17,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
