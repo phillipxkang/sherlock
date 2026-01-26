@@ -13,12 +13,13 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
+SmugMug
 Smule
 Splice
 Spotify
@@ -26,7 +27,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
+xHamster
