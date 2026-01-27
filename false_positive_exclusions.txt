@@ -1,7 +1,9 @@
 APClips
 Archive.org
 BoardGameGeek
+CGTrader
 Code Snippet Wiki
+CyberDefenders
 Fandom
 GNOME VCS
 GeeksforGeeks
@@ -13,21 +15,17 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
 Scribd
 SlideShare
-SmugMug
 Smule
 Splice
 Spotify
 Weblate
-YandexMusic
 kaskus
 mercadolivre
 phpRU
 svidbook
 threads
-xHamster
