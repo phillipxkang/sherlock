@@ -1,18 +1,17 @@
 APClips
 Archive.org
 BoardGameGeek
-CGTrader
 Code Snippet Wiki
-CyberDefenders
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -24,6 +23,7 @@ Smule
 Splice
 Spotify
 Weblate
+YandexMusic
 kaskus
 mercadolivre
 phpRU
