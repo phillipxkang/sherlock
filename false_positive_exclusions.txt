@@ -2,16 +2,14 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
-Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
-LessWrong
+ImgUp.cz
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -26,6 +24,8 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
