@@ -2,12 +2,13 @@ APClips
 Archive.org
 BoardGameGeek
 Code Snippet Wiki
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hubski
-ImgUp.cz
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -28,4 +29,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
