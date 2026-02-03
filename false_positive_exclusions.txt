@@ -21,7 +21,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
+TryHackMe
 Weblate
 YandexMusic
 kaskus
