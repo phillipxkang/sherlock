@@ -9,9 +9,11 @@ Giphy
 HackerEarth
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -22,7 +24,6 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 kaskus
 mercadolivre
@@ -30,4 +31,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
