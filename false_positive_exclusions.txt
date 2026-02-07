@@ -13,7 +13,6 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -23,6 +22,7 @@ Smule
 Splice
 Spotify
 TryHackMe
+WebNode
 Weblate
 YandexMusic
 kaskus
