@@ -1,4 +1,5 @@
 APClips
+Archive.org
 BoardGameGeek
 Code Snippet Wiki
 Fandom
@@ -9,7 +10,6 @@ HackerEarth
 Hubski
 LessWrong
 LushStories
-Motherless
 Mydramalist
 PepperIT
 PocketStars
@@ -23,8 +23,10 @@ Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
