@@ -1,15 +1,17 @@
 APClips
 Archive.org
-Audiojungle
 BoardGameGeek
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hubski
+Itch.io
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -17,6 +19,7 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -31,4 +34,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
