@@ -6,12 +6,8 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hubski
-Itch.io
-LessWrong
-LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -19,7 +15,6 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -28,7 +23,6 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
-kaskus
 mercadolivre
 opennet
 phpRU
