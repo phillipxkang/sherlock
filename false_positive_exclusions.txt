@@ -9,13 +9,13 @@ Giphy
 HackerEarth
 Hubski
 LushStories
+Motherless
 Mydramalist
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -23,6 +23,7 @@ Splice
 Spotify
 TryHackMe
 Weblate
+Wikidot
 YandexMusic
 mercadolivre
 opennet
