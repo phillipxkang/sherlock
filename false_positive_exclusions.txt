@@ -9,8 +9,8 @@ Giphy
 HackerEarth
 Hubski
 LushStories
-Motherless
 Mydramalist
+OurDJTalk
 PepperIT
 PocketStars
 Reddit
@@ -23,10 +23,8 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wikidot
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
