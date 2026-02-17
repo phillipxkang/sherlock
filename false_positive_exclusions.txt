@@ -1,8 +1,7 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
-Fandom
+Cults3D
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -13,6 +12,7 @@ Mydramalist
 OurDJTalk
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -24,7 +24,10 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
