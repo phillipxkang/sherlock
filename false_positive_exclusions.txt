@@ -1,18 +1,18 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cults3D
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hubski
+LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 PocketStars
-Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -23,11 +23,8 @@ Splice
 Spotify
 TryHackMe
 Weblate
-YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
-xHamster
