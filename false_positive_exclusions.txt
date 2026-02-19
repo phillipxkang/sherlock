@@ -1,12 +1,9 @@
 APClips
 Archive.org
-Code Snippet Wiki
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hubski
 LessWrong
 LushStories
@@ -23,8 +20,11 @@ Splice
 Spotify
 TryHackMe
 Weblate
+YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
+xHamster
