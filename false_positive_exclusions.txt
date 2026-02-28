@@ -1,13 +1,15 @@
 APClips
 Archive.org
-Flipboard
 GNOME VCS
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
+LushStories
 Mydramalist
 PepperIT
 PocketStars
