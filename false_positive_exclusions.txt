@@ -1,15 +1,14 @@
 APClips
 Archive.org
 GNOME VCS
-GaiaOnline
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
+Motherless
 Mydramalist
 PepperIT
 PocketStars
@@ -26,7 +25,6 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
-opennet
 phpRU
 svidbook
 threads
