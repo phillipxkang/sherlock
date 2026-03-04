@@ -1,11 +1,13 @@
 APClips
 Archive.org
+CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -24,7 +26,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
-xHamster
