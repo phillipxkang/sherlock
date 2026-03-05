@@ -1,13 +1,11 @@
 APClips
 Archive.org
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
@@ -17,8 +15,10 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
@@ -30,3 +30,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
