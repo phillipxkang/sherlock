@@ -1,7 +1,6 @@
 APClips
 Archive.org
-CyberDefenders
-DeviantART
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
