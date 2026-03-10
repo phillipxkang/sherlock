@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Flipboard
+Cults3D
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -19,6 +19,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
@@ -31,3 +32,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
