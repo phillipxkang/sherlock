@@ -1,7 +1,6 @@
 APClips
 Archive.org
 CyberDefenders
-DeviantART
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -9,10 +8,10 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
