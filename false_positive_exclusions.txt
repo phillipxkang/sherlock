@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CyberDefenders
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -21,7 +20,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 TryHackMe
 Weblate
 YandexMusic
