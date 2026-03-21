@@ -1,6 +1,8 @@
 APClips
+Anilist
+Apple Discussions
 Archive.org
-CyberDefenders
+CGTrader
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -15,9 +17,7 @@ Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
-Slack
 SlideShare
 Smule
 Splice
