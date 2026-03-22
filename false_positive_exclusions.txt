@@ -1,15 +1,11 @@
 APClips
-Anilist
-Apple Discussions
 Archive.org
-CGTrader
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -27,6 +23,7 @@ Weblate
 YandexMusic
 kaskus
 mercadolivre
+opennet
 phpRU
 svidbook
 threads
