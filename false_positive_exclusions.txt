@@ -6,9 +6,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -24,9 +22,8 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+kaskus
 mercadolivre
-minds
-nnRU
 opennet
 phpRU
 svidbook
