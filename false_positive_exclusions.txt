@@ -7,9 +7,11 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -28,3 +30,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
