@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
