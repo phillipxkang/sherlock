@@ -3,6 +3,7 @@ Archive.org
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -11,6 +12,7 @@ Mydramalist
 PepperIT
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Reddit
 Roblox
