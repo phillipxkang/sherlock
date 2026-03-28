@@ -2,17 +2,16 @@ APClips
 Archive.org
 GeeksforGeeks
 Giphy
+GitBook
+GitHub
 HackerEarth
-HackerRank
 Hashnode
 Hubski
-LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
 Pornhub
-Rajce.net
 Rarible
 Reddit
 Roblox
@@ -31,4 +30,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
