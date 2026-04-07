@@ -1,6 +1,9 @@
 7Cups
 APClips
 Archive.org
+Audiojungle
+Bandcamp
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -11,6 +14,7 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
