@@ -1,9 +1,7 @@
 7Cups
 APClips
 Archive.org
-Audiojungle
 Bandcamp
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,6 +17,7 @@ Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -34,3 +33,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
