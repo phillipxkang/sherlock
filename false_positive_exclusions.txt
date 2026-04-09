@@ -12,13 +12,13 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
+Rajce.net
 Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -33,4 +33,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
