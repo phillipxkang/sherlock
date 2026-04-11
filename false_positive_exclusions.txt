@@ -2,12 +2,14 @@
 APClips
 Archive.org
 Bandcamp
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
