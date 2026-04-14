@@ -1,25 +1,25 @@
 7Cups
 APClips
+Apple Discussions
 Archive.org
 Bandcamp
-Cults3D
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
-Rajce.net
+Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -35,3 +35,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
