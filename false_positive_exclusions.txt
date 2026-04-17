@@ -3,17 +3,18 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
 Rarible
 Reddit
 Roblox
@@ -29,7 +30,9 @@ Weblate
 YandexMusic
 dailykos
 interpals
+kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
