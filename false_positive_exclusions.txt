@@ -3,11 +3,12 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Cults3D
 CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
-Hashnode
+HackerRank
 Hubski
 LessWrong
 LushStories
@@ -20,6 +21,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -32,7 +34,6 @@ dailykos
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
