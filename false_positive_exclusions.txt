@@ -3,15 +3,15 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Cults3D
 CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
+Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
 Mydramalist
 PepperIT
 PocketStars
@@ -21,7 +21,6 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
