@@ -2,8 +2,8 @@
 APClips
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
-CyberDefenders
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -11,11 +11,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Rarible
 Reddit
 Roblox
@@ -26,7 +24,6 @@ Smule
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
