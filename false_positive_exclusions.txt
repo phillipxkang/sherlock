@@ -2,8 +2,8 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
+Carbonmade
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -13,12 +13,12 @@ LessWrong
 LushStories
 Mydramalist
 PepperIT
-PocketStars
 Rarible
 Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
