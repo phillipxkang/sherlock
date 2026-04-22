@@ -3,7 +3,6 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Carbonmade
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -18,7 +17,6 @@ Reddit
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -34,3 +32,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
