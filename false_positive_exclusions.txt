@@ -3,13 +3,13 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-Crevado
-CyberDefenders
+Cults3D
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 Mydramalist
 PepperIT
