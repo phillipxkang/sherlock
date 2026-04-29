@@ -4,14 +4,13 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
 Mydramalist
 PepperIT
 Rarible
@@ -24,12 +23,14 @@ Smule
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
