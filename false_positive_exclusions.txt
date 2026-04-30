@@ -1,16 +1,19 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
+ArtStation
 Bandcamp
-CGTrader
+BoardGameGeek
+CyberDefenders
+Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 Rarible
@@ -30,7 +33,6 @@ dailykos
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
