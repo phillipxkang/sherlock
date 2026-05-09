@@ -4,8 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,6 +12,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
 Mydramalist
 PepperIT
 Rarible
@@ -21,6 +20,7 @@ Reddit
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
