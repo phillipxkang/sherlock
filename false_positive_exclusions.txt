@@ -1,17 +1,17 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
+LessWrong
 LushStories
 Motherless
 Mydramalist
@@ -39,4 +39,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
