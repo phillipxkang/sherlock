@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -39,3 +40,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
