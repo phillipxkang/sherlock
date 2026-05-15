@@ -5,15 +5,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 HackerEarth
 Hashnode
 Hubski
-Itch.io
-LushStories
+LessWrong
 Motherless
 Mydramalist
 PepperIT
@@ -31,6 +30,7 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
