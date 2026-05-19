@@ -1,10 +1,11 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,8 +15,6 @@ Hubski
 LushStories
 Mydramalist
 PepperIT
-Pornhub
-Rajce.net
 Rarible
 Reddit
 Roblox
@@ -39,4 +38,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
