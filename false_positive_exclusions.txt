@@ -1,7 +1,7 @@
 7Cups
 Airliners
-Anilist
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -12,6 +12,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -34,6 +35,7 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
