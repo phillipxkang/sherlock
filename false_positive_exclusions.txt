@@ -1,7 +1,7 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -16,10 +16,12 @@ LessWrong
 LushStories
 Mydramalist
 PepperIT
+Pornhub
 Rarible
 Reddit
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -35,8 +37,8 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
 threads
+xHamster
