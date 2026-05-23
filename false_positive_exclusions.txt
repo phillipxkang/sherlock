@@ -5,11 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Hubski
@@ -20,6 +18,7 @@ PepperIT
 Pornhub
 Rarible
 Reddit
+Replit.com
 Roblox
 RocketTube
 Scribd
