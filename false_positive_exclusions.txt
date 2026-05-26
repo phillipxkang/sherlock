@@ -12,6 +12,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -32,7 +33,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 kaskus
@@ -41,3 +41,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
