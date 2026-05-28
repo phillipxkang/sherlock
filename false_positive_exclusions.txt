@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -11,7 +10,7 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
-LushStories
+LessWrong
 Mydramalist
 PepperIT
 Rarible
@@ -20,7 +19,6 @@ Replit.com
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -39,4 +37,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
