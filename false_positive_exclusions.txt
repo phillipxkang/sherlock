@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -11,8 +12,10 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LushStories
 Mydramalist
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -37,3 +40,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
