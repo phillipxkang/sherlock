@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -12,14 +12,18 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LiveJournal
+LushStories
 Mydramalist
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 Roblox
 RocketTube
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -38,3 +42,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
