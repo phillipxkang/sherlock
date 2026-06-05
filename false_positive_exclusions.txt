@@ -10,13 +10,14 @@ Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
+HackerRank
 Hashnode
 Hubski
-Itch.io
 LushStories
 Mydramalist
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -40,4 +41,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
