@@ -6,18 +6,18 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
 HackerEarth
-HackerRank
 Hashnode
 Hubski
+LessWrong
 LushStories
 Mydramalist
 PepperIT
 Pornhub
-Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -38,6 +38,6 @@ interpals
 kaskus
 mercadolivre
 opennet
-phpRU
 svidbook
 threads
+xHamster
