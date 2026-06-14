@@ -2,11 +2,10 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -17,6 +16,7 @@ Hubski
 LessWrong
 LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Rarible
 Reddit
