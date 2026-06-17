@@ -9,15 +9,16 @@ Bandcamp
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LushStories
 Mydramalist
+OurDJTalk
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -27,6 +28,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
