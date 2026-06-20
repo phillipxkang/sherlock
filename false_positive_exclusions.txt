@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -22,6 +24,7 @@ Reddit
 Replit.com
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -29,6 +32,7 @@ Spotify
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -36,8 +40,8 @@ igromania
 interpals
 kaskus
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
 threads
-xHamster
