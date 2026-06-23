@@ -9,7 +9,6 @@ Bandcamp
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 HackerEarth
 Hashnode
 Hubski
@@ -41,4 +40,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
