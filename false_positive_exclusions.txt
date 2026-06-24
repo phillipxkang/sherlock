@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,7 +15,6 @@ LessWrong
 LushStories
 Mydramalist
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
