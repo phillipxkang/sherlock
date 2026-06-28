@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,7 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Cults3D
-CyberDefenders
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -15,11 +14,9 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PepperIT
 Rarible
 Reddit
@@ -30,13 +27,13 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 kaskus
@@ -45,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
