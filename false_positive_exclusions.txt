@@ -1,12 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Cults3D
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -15,9 +14,11 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -33,7 +34,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 kaskus
