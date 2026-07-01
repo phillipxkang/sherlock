@@ -1,22 +1,24 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CyberDefenders
 Envato Forum
+GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 Mydramalist
+OurDJTalk
+PCGamer
 PepperIT
-Pornhub
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -40,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
