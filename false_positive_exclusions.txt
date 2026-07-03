@@ -1,15 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Chess
-Cults3D
 CyberDefenders
-Duolingo
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,25 +14,21 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
-ReverbNation
 Roblox
 RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
@@ -46,8 +38,8 @@ igromania
 interpals
 kaskus
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
 threads
-xHamster
