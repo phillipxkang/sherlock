@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+CGTrader
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,7 +14,6 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
