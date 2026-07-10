@@ -7,14 +7,15 @@ Archive.org
 ArtStation
 Bandcamp
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PCGamer
@@ -43,4 +44,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
