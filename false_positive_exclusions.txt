@@ -13,13 +13,14 @@ HackerEarth
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
-LinkedIn
 LushStories
 Mydramalist
 OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -29,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
