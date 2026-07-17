@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,13 +12,10 @@ GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
-Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -44,3 +42,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
