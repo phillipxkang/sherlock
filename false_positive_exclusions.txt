@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,11 +13,12 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 Mydramalist
 PCGamer
 PepperIT
-Pornhub
+Rajce.net
 Rarible
 Reddit
 Replit.com
@@ -42,4 +42,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
