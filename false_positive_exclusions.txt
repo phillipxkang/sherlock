@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -14,7 +13,7 @@ HackerEarth
 Hashnode
 Hubski
 LessWrong
-LiveJournal
+LinkedIn
 LushStories
 Mydramalist
 PCGamer
@@ -29,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
