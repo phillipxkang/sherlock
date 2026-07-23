@@ -12,9 +12,9 @@ Giphy
 HackerEarth
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LinkedIn
-LushStories
 Mydramalist
 PCGamer
 PepperIT
@@ -29,7 +29,6 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
