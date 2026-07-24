@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,13 +7,12 @@ ArtStation
 Bandcamp
 Envato Forum
 GeeksforGeeks
-Giphy
 HackerEarth
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
 PCGamer
 PepperIT
@@ -41,4 +39,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
