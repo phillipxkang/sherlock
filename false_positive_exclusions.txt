@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -18,6 +19,7 @@ LushStories
 Mydramalist
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -35,10 +37,9 @@ authorSTREAM
 dailykos
 igromania
 interpals
-kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
 threads
+xHamster
