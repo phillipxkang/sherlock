@@ -6,7 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CyberDefenders
+Cults3D
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -17,6 +17,7 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -26,10 +27,10 @@ Replit.com
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Weblate
 YandexMusic
@@ -37,6 +38,7 @@ authorSTREAM
 dailykos
 igromania
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
