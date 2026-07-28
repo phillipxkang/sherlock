@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Chatujme.cz
 Cults3D
 Envato Forum
 GeeksforGeeks
@@ -26,11 +27,10 @@ Reddit
 Replit.com
 Roblox
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
+Trakt
 TryHackMe
 Weblate
 YandexMusic
@@ -44,4 +44,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
