@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -17,7 +18,9 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -30,8 +33,8 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
