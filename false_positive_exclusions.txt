@@ -5,15 +5,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
@@ -31,7 +30,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
