@@ -6,8 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -19,6 +19,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
 PCGamer
 PepperIT
