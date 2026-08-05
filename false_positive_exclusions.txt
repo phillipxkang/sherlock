@@ -1,13 +1,13 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
-Dribbble
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -17,7 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
 LinkedIn
 LushStories
 Mydramalist
@@ -35,7 +34,6 @@ SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
