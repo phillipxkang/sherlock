@@ -1,13 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,7 +17,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
 Mydramalist
 PCGamer
 PepperIT
@@ -29,7 +27,6 @@ Replit.com
 ReverbNation
 Roblox
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
@@ -46,3 +43,4 @@ opennet
 phpRU
 svidbook
 threads
+xHamster
