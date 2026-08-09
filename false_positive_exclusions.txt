@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,7 +8,6 @@ ArtStation
 Bandcamp
 Blogger
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -22,6 +22,7 @@ LushStories
 Mydramalist
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
@@ -33,7 +34,9 @@ SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -41,8 +44,8 @@ igromania
 interpals
 kaskus
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
 threads
+xHamster
