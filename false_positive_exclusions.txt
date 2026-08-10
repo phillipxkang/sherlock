@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Envato Forum
 F3.cool
@@ -17,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LessWrong
 LinkedIn
 LushStories
 Mydramalist
@@ -29,14 +29,13 @@ Replit.com
 ReverbNation
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 TryHackMe
-Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
