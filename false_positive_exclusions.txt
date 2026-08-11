@@ -7,6 +7,7 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,7 +19,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LushStories
+LiveJournal
 Mydramalist
 PCGamer
 PepperIT
@@ -29,16 +30,17 @@ Replit.com
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+hunting
 igromania
 interpals
 kaskus
@@ -47,4 +49,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
