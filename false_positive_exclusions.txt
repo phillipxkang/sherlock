@@ -1,18 +1,17 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-Cults3D
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -21,21 +20,19 @@ Instapaper
 LinkedIn
 LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 Replit.com
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
