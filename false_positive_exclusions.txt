@@ -7,13 +7,10 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
-Cults3D
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
-HackenProof (Hackers)
 HackerEarth
 Hashnode
 Houzz
@@ -22,7 +19,6 @@ Instapaper
 LinkedIn
 LushStories
 Mydramalist
-Outgress
 PCGamer
 PepperIT
 Pornhub
@@ -33,15 +29,16 @@ ReverbNation
 Roblox
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
 TryHackMe
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
@@ -51,4 +48,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
