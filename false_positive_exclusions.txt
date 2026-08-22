@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Envato Forum
 F3.cool
@@ -48,4 +48,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
