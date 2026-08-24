@@ -5,9 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
-CyberDefenders
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -18,8 +16,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
+LushStories
 Mydramalist
-OurDJTalk
 PCGamer
 PepperIT
 Rarible
@@ -32,6 +30,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
