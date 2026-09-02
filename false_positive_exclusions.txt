@@ -1,14 +1,14 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -24,7 +24,6 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 Replit.com
@@ -52,4 +51,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
