@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -8,10 +7,7 @@ ArtStation
 Bandcamp
 Championat
 Chatujme.cz
-ChaturBate
-CyberDefenders
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -19,13 +15,13 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -52,4 +48,3 @@ opennet
 phpRU
 svidbook
 threads
-xHamster
