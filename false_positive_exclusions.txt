@@ -9,6 +9,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -18,14 +19,13 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
+Rarible
 Reddit
 ReverbNation
 Roblox
@@ -41,7 +41,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -53,4 +52,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
