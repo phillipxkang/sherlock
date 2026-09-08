@@ -21,6 +21,7 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -30,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
