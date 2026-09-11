@@ -1,26 +1,32 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Championat
 Chatujme.cz
+ChaturBate
+ColourLovers
+CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 HackerEarth
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
+LushStories
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -29,7 +35,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -47,3 +52,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
