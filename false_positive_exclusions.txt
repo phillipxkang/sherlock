@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -14,7 +15,6 @@ CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 HackerEarth
 Hashnode
 Houzz
@@ -31,10 +31,12 @@ Rarible
 Reddit
 ReverbNation
 Roblox
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
