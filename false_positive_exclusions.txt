@@ -6,25 +6,29 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
+Gravatar
 HackerEarth
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
+Lobsters
 LushStories
 Mydramalist
 Open Collective
 PCGamer
 PepperIT
 Pornhub
+Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -34,6 +38,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
