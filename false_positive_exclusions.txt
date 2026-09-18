@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -25,7 +24,6 @@ LinkedIn
 LushStories
 Mydramalist
 Open Collective
-OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -45,6 +43,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
