@@ -24,6 +24,7 @@ LinkedIn
 LushStories
 Mydramalist
 Open Collective
+OurDJTalk
 PCGamer
 PepperIT
 Pornhub
@@ -36,14 +37,12 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
