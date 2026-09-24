@@ -5,12 +5,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
+CyberDefenders
+Eintracht Frankfurt Forum
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -26,7 +27,6 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -36,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
