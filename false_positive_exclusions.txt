@@ -1,16 +1,16 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 CyberDefenders
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -27,6 +27,7 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
+Pornhub
 Rarible
 Reddit
 ReverbNation
@@ -38,7 +39,6 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
