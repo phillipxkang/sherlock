@@ -39,6 +39,7 @@ Splice
 Spotify
 Trakt
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
