@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -19,7 +20,6 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -36,6 +36,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
