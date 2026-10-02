@@ -7,10 +7,10 @@ Archive.org
 ArtStation
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -23,7 +23,6 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -38,6 +37,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -55,4 +55,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
