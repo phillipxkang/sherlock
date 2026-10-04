@@ -10,7 +10,9 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
+GaiaOnline
 GeeksforGeeks
 Giphy
 HackerEarth
@@ -33,6 +35,7 @@ Reddit
 ReverbNation
 Roblox
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -41,7 +44,6 @@ Trakt
 TryHackMe
 Velomania
 Weblate
-Weebly
 YandexMusic
 authorSTREAM
 dailykos
@@ -56,3 +58,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
