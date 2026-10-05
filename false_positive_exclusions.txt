@@ -35,7 +35,6 @@ Reddit
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
@@ -58,4 +57,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
