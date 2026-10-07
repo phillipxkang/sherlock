@@ -6,9 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,6 +22,7 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Mydramalist
 Open Collective
