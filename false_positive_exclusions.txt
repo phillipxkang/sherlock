@@ -6,9 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -27,7 +27,6 @@ Mydramalist
 Open Collective
 PCGamer
 PepperIT
-Rajce.net
 Rarible
 Reddit
 ReverbNation
@@ -37,7 +36,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -46,7 +44,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
