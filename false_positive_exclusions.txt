@@ -1,16 +1,15 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
 ChaturBate
-CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -24,6 +23,7 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LiveJournal
 LushStories
 Mydramalist
 Open Collective
@@ -35,7 +35,6 @@ Reddit
 ReverbNation
 Roblox
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
