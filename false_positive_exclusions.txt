@@ -10,6 +10,7 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+CyberDefenders
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -23,7 +24,6 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
-LushStories
 Mydramalist
 Open Collective
 PCGamer
