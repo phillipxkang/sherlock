@@ -1,11 +1,11 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -24,6 +24,7 @@ Instapaper
 LessWrong
 LinkedIn
 Linktree
+LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -55,4 +56,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
