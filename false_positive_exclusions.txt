@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -21,6 +22,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LinkedIn
 Linktree
@@ -43,7 +45,6 @@ Trakt
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -57,3 +58,4 @@ phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
