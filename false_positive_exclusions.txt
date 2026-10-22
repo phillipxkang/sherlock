@@ -1,11 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blipfoto
-CGTrader
 Championat
+Chatujme.cz
 GaiaOnline
 GeeksforGeeks
 HackerEarth
@@ -17,6 +17,8 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
+NationStates Nation
+NationStates Region
 Open Collective
 PCGamer
 PepperIT
@@ -29,6 +31,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -36,13 +39,12 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 interpals
-kaskus
 mercadolivre
 opennet
 phpRU
 social.tchncs.de
 svidbook
 threads
+xHamster
