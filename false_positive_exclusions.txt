@@ -4,8 +4,10 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Championat
 Chatujme.cz
+CyberDefenders
 GaiaOnline
 GeeksforGeeks
 HackerEarth
@@ -17,8 +19,6 @@ LessWrong
 LinkedIn
 LushStories
 Mydramalist
-NationStates Nation
-NationStates Region
 Open Collective
 PCGamer
 PepperIT
@@ -41,6 +41,7 @@ dailykos
 fixya
 hunting
 interpals
+kaskus
 mercadolivre
 opennet
 phpRU
