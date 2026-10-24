@@ -1,13 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
 CGTrader
 Championat
 Chatujme.cz
-CyberDefenders
 GaiaOnline
 GeeksforGeeks
 HackerEarth
@@ -17,7 +16,6 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
-LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -48,4 +46,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
