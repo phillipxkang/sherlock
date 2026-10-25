@@ -1,10 +1,9 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 GaiaOnline
@@ -16,6 +15,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
 Open Collective
 PCGamer
