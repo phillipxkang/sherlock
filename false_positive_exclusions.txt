@@ -1,5 +1,3 @@
-7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,9 +11,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -46,4 +44,3 @@ phpRU
 social.tchncs.de
 svidbook
 threads
-xHamster
