@@ -1,8 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Championat
 Chatujme.cz
 CyberDefenders
@@ -15,6 +15,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LushStories
 Mydramalist
 Open Collective
 PCGamer
@@ -30,15 +31,12 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 kaskus
 mercadolivre
