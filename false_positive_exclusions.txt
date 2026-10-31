@@ -2,7 +2,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-CGTrader
 Championat
 Chatujme.cz
 CyberDefenders
@@ -15,6 +14,7 @@ Hubski
 Instapaper
 LessWrong
 LinkedIn
+LiveJournal
 LushStories
 Mydramalist
 Open Collective
